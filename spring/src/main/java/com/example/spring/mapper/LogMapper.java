@@ -4,5 +4,5 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.example.spring.entity.Log;
 
 
-public interface  LogMappper extends BaseMapper<Log> {
+public interface  LogMapper extends BaseMapper<Log> {
 }
